@@ -1,0 +1,32 @@
+.header__nav {
+	height: 3em;
+}
+
+.logo-work {
+	height: 2.5em;
+}
+
+.form-inline__search {
+	display: block;
+}
+
+.form-inline .form-group {
+	width: 90%;
+	border: 1px solid #35b6f2;
+	padding-left: 2em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.header__bottom-decription__left, .header__bottom-decription__right{
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.header__bottom-decription__left {
+	margin-left: 2em;
+}
+
+.main-block .row .main-block__item {
+	width: 31%;
+}
